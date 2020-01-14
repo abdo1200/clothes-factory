@@ -1,0 +1,45 @@
+.nav-item .nav-btn{
+    background-color: #10AEF9;
+    color: white;
+  }
+.header{
+    height: 600px;
+    background-image:url(../image/4.jpg) ;
+    background: norepeat;
+    background-size:100% 600px;
+	margin-top: 50px;
+}
+
+.header p{
+	color: white;
+    margin-left: 20px;
+
+}
+.header .btn-left .left{
+    border-radius: 10px;
+    font-size: 16px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 10px;
+    height: 120px;
+    
+}
+.left .fa-list-ol{
+    margin-top: 20px;
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+
+.header .btn-right .right{
+    border-radius: 10px;
+    font-size: 16px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 10px;  
+    height: 120px;
+}
+.right .fa-user-friends{
+    margin-top: 20px;
+    font-size: 35px;
+    margin-bottom: 10px;
+}

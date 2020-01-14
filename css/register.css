@@ -1,0 +1,66 @@
+*{
+ margin: 0;
+ transition: .5s;
+ 
+}
+.nav{
+  background-color: "";
+  text-align: center;
+}
+.nav-item:hover{
+border-bottom: 2px solid #10AEF9;
+}
+.special:hover{
+border-bottom: 0px solid #10AEF9; 
+}
+.nav-item .nav-btn{
+background-color: #10AEF9;
+color: white;
+}
+
+.option{
+  float: right;
+}
+.option ul{
+  margin-top: 40px;
+  list-style: none;
+  float: right;
+}
+.option li{
+  float: left;
+}
+.option li a{
+  margin-right: 40px;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  }
+
+input{
+	height: 30px;
+  	width: 200px;
+  	border-radius: 5px;
+}
+.sb{
+  	height: 50px;
+  	width: 120px;
+  	color: white;
+  	background-color: #10AEF9;
+  	border-radius: 10px;
+  }
+  select{
+  	height: 30px;
+  	width: 100px;
+  }
+
+
+
+.register{
+	margin-top: 50px;
+    
+}
+.f1{
+	height: 600px;
+	width: 500px;
+	}
+
